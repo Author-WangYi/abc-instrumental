@@ -1,0 +1,153 @@
+X:1
+T:
+M:3/4
+L:1/16
+Q:1/4=106
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:C
+% intro
+V: Vocal
+Z4|
+V: Ins
+z8z2g2|gc'2d'g'd'2c'gc'2d'|g'4z4gc'2d'|g'd'2c'gc'2d'g'4|
+V: Vocal
+Z2|
+V: Ins
+z4gc'2d'g'd'2c'|gc'2d'g'4z4|
+V: Vocal
+M:2/4
+Z|
+V: Ins
+M:2/4
+gc'2d'g'd'2c'|
+V: Vocal
+M:3/4
+Z|z8z2cc|
+V: Ins
+M:3/4
+gc'2d'g'4z4|g'8z4|
+% verse
+V: Vocal
+g4d6ee|dccc4z3cc|g4d6ee|dc2e4z3ee|
+V: Ins
+Z4|
+V: Vocal
+c'4b4a4|gf2e4z3ee|d8z2dc|B4z6cc|
+V: Ins
+Z4|
+V: Vocal
+g4d6ee|dc2c4z3cc|g4d6ee|dc2e4z3ee|
+V: Ins
+Z4|
+V: Vocal
+c'4b4a4|gf2e4z3ee|d6z4ee|f4g4c4|
+V: Ins
+Z4|
+% pre-chorus
+V: Vocal
+b8z2aa|g4z4ed2c|f4e4B4|c4z4c4|
+V: Ins
+Z4|
+V: Vocal
+b8z2bc'|g6z2ed2c|f4e4f4|g6zgd'3b|
+V: Ins
+Z4|
+% chorus
+V: Vocal
+c'8z3b|c'8z3b|c'8z3d'|e'2e'8e'd'|
+V: Ins
+Z4|
+V: Vocal
+c'2c'c'c'z4zb2|gzg6z3e|ff2eff2eff2e|g4z3gd'3b|
+V: Ins
+Z4|
+V: Vocal
+c'8z3b|c'8z3b|c'8z3d'|e'6f'f'e'3d'|
+V: Ins
+Z4|
+V: Vocal
+c'3c'c'3bc'3b|c'3bg4z3e|f3ef3ed3c|
+V: Ins
+Z3|
+% interlude
+V: Vocal
+c12|Z3|
+V: Ins
+Z|g'4z4gc'2d'|g'd'2c'gc'2d'g'4|z4gc'2d'g'd'2c'|
+V: Vocal
+Z|
+V: Ins
+gc'2d'g'4z4|
+V: Vocal
+M:2/4
+Z|
+V: Ins
+M:2/4
+gc'2d'g'd'2c'|
+V: Vocal
+M:3/4
+Z|z8z2cc|
+V: Ins
+M:3/4
+gc'2d'g'4z4|g'8z4|
+% verse2
+V: Vocal
+g4d4z2ee|dc2c4z4c|g4d6ee|dc2e4z4e|
+V: Ins
+Z4|
+V: Vocal
+c'4b4a3a|gf2e4z3ee|d4z6dc|B4z6zc|
+V: Ins
+Z4|
+V: Vocal
+g3dd6ze|dc2c4z4c|g4d6ze|dc2e4z4e|
+V: Ins
+Z4|
+V: Vocal
+c'4b4a3a|gf2e4z4e|d4z6ze|f4g4c4|
+V: Ins
+Z4|
+% pre-chorus2
+V: Vocal
+b8z2a2|g6z2ed2c|f4e4B4|c4z4c4|
+V: Ins
+Z4|
+V: Vocal
+b8z2c'2|g6z2ed2c|f4e4f4|g4z3gd'3b|
+V: Ins
+Z4|
+% chorus2
+V: Vocal
+c'c'z8b2|c'4z6zb|c'c'z8d'2|e'8z2d'2|
+V: Ins
+Z4|
+V: Vocal
+c'4z6b2|g4z6e2|d4z6g2|d'3c'b3gd'3e'|
+V: Ins
+Z4|
+V: Vocal
+c'8z2b2|c'8z2b2|c'8z2d'2|e'8ze'e'd'|
+V: Ins
+Z4|
+V: Vocal
+c'2c'c'c'z4zb2-|b2ggz6ze|f3ef3eff2e|g4z3gd'3b|
+V: Ins
+Z4|
+V: Vocal
+c'8z2b2|c'8z3b|c'8zc'c'd'|e'8e'3d'|
+V: Ins
+Z4|
+V: Vocal
+c'3c'c'3bc'3b|c'3bg4z3e|f3ef3ed3c|c12|
+V: Ins
+Z4|
+% outro
+V: Vocal
+Z4|
+V: Ins
+gc'2d'g'd'2c'gc'2d'|g'8gc'2d'|g'd'2c'gc'2d'g'4-|g'4g'8-|
+V: Vocal
+Z3|
+V: Ins
+g'8z4|Z2|

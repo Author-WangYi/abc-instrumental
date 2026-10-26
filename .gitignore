@@ -1,0 +1,21 @@
+# 生成产物
+*.instrumental.abc
+*.relabel.abc
+*.merge.abc
+*.swap.abc
+*.mid
+*.wav
+*.mp3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

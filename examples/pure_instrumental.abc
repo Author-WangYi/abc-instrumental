@@ -1,0 +1,146 @@
+X:1
+T:
+M:4/4
+L:1/16
+Q:1/4=100
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:Db
+% intro
+V: Vocal
+Z4|
+V: Ins
+z12d'2e'2|a'a'a'a'2d'd'd'a'4d'2f'f'|e'e'f'f'e'd'd'd'4zd'2e'2|a'a'a'a'd'd'd'd'a'4d'd'f'f'|
+V: Vocal
+Z4|
+V: Ins
+e'e'f'4f'4g'2f'2e'd'|d'6b'a'6zb'a'-|a'4-a'zb'a'4zd'2e'2|a'a'a'a'd'd'd'd'a'2d'2d'2d'2|
+V: Vocal
+Z4|
+V: Ins
+e'2d'2c'2d'4f2b4|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2|
+V: Vocal
+Z4|
+V: Ins
+z2a'2f'2e'2d'2f'2e'2d'2|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2-|
+V: Vocal
+Z4|
+V: Ins
+d'2e'2f'2g'2d'2fb2fbc'|d'd'd'd'2c'a2z6bb|a6gff4f2g2|a4b4a2f2e2f2|
+V: Vocal
+Z4|
+V: Ins
+e2e2z8z2bc'|d'd'd'd'd'c'a2aaaaaac'c'|d'd'd'd'aae'e'd'6zf|aaaaaafee6bc'|
+V: Vocal
+Z4|
+V: Ins
+d'd'd'd'd'c'a2z6fb|a6gff4f2g2|a4b4f2e2e2f2|e2e2z8z2bc'|
+V: Vocal
+Z4|
+V: Ins
+d'd'd'd'd'd'c'aaaaabbc'c'|d'd'd'd'f'e'd'd'z6ac'|d'd'd'd'd'2f'f'e'2d'd'c'2d'2|z2a2d'2a2z2b2z2a2|
+V: Vocal
+Z4|
+V: Ins
+f'2f'2f'2e'2f'2e'2d'2a2|e'2f'2d'2e'2f'4z4|f'2f'2f'2a'2g'2f'2d'2a2|e'2f'2d'2c'2d'4z4|
+V: Vocal
+Z4|
+V: Ins
+f'2f'2f'2e'2f'2e'2d'2a2|e'2f'2d'2e'2f'4e'2d'2|z8z2d'2c'2d'2|d'8z2d'2c'2d'2|
+V: Vocal
+Z4|
+V: Ins
+z12d'2e'2|a'a'a'a'd'd'd'd'a'4d'2f'f'|e'e'f'f'e'd'd'd'4zd'2f'2|a'a'a'a'2d'd'd'a'4d'd'f'f'|
+V: Vocal
+Z4|
+V: Ins
+e'e'f'4f'4g'2f'2e'd'-|d'4-d'zb'a'6zb'a'-|a'4-a'zb'a'4zd'2f'2|a'a'a'a'2d'd'd'a'2d'2d'2d'2|
+V: Vocal
+Z4|
+V: Ins
+e'2d'2c'2d'4f2b2a2|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2|
+V: Vocal
+Z4|
+V: Ins
+z2a'2f'2e'2d'2f'2e'2d'2|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2-|
+V: Vocal
+Z4|
+V: Ins
+d'2e'2f'2g'2d'2fb2f2a|d'd'd'd'd'2c'a6zfb|a6gff4f2g2|a4b4a2f2e2e2|
+V: Vocal
+Z4|
+V: Ins
+f2e2e2f2e2A2B2bc'|d'2d'd'd'c'a2aaaaaac'c'|d'd'd'd'f'e'd'2d'4b2fa|baabaaad'e'2f'd'2d'c'2|
+V: Vocal
+Z4|
+V: Ins
+d'4z8e'2f'2|g'6g'2f'2e'2e'2e'2|f'2f'2e'4d'4c'2d'2|e'6d'c'b2=a2a2a2|
+V: Vocal
+Z4|
+V: Ins
+b2=a2b2c'2d'6e'f'|g'3g'3g'2f'2f'2e'2e'2|f'2f'2e'2d'2d'4c'2d'2|e'4z6d'2e'2f'2|
+V: Vocal
+Z4|
+V: Ins
+e'4d'2d'2c'2d'2e'4|d'12f'4|f'2f'2f'2e'd'2d'babafe|d2z4bd'2e'd'f'2a'b'f'|
+V: Vocal
+Z4|
+V: Ins
+e'd'd'3baa2bbbd'2ba|d'2f'3a'e'd'f'a'e'd'f'a'e'd'|f'a'e'd'f'a'e'd'f'a'e'd'f'a'e'd'|f'b'a'f'2b'a'f'2b'a'f'2b'a'f'|
+V: Vocal
+Z4|
+V: Ins
+e''2e''2e''2d''4c''d''c''a'e'd'|e'2e'3f'd'4f2b2a2|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|
+V: Vocal
+Z4|
+V: Ins
+b'b'a'2f'2e'2d'4c'2d'2|z2a'2f'2e'2d'2f'2e'2d'2|b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|
+V: Vocal
+Z4|
+V: Ins
+b'b'a'2f'2e'2d'4c'2d'2-|d'2e'2f'2g'2d'4d'2e'2|a'a'a'a'2d'd'd'a'4d'2f'f'|e'e'f'f'e'd'd'd'4zd'2e'2|
+V: Vocal
+Z4|
+V: Ins
+a'a'a'a'd'd'd'd'a'4d'd'f'f'|e'e'f'4f'4g'2f'2e'd'|d'6b'a'6zb'a'-|a'4-a'zb'a'4zd'2e'2|
+V: Vocal
+Z2|
+V: Ins
+a'a'a'a'd'd'd'd'a'2d'2d'2d'2|e'2d'2c'2d'6=d'2=e'2|
+V: Vocal
+K:D
+Z4|
+V: Ins
+K:D
+a'a'a'a'd'd'd'd'a'4d'2f'f'|e'e'f'f'e'd'd'd'4zd'2f'2|a'a'a'a'2d'd'd'a'4d'd'f'f'|e'e'f'2z2f'4g'2f'2e'd'-|
+V: Vocal
+Z4|
+V: Ins
+d'4-d'zb'a'6zb'a'-|a'4-a'zb'a'4zd'2e'2|a'a'a'a'2d'd'd'a'2d'2d'2d'2|e'2d'2c'2d'6d'2e'2|
+V: Vocal
+Z|
+V: Ins
+a'a'a'a'2d'd'd'a'2d'2d'2d'2|
+V: Vocal
+M:2/4
+Z|
+V: Ins
+M:2/4
+e'2d'2c'2d'2|
+% outro
+V: Vocal
+M:4/4
+Z4|
+V: Ins
+M:4/4
+b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2|z2a'2f'2e'2d'2f'2e'2d'2|
+V: Vocal
+Z4|
+V: Ins
+b'b'a'2f'2e'2d'4c'2d'2|z2fa2b3z2fa2f3|b'b'a'2f'2e'2d'4c'2d'2|z2e'2f'2g'2d'2fb2f3|
+V: Vocal
+K:Db
+Z|
+V: Ins
+K:Db
+Z|
