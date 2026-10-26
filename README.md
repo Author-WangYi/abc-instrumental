@@ -17,7 +17,7 @@ ABC 是一门**记谱**格式，它没有「这个声部由人唱还是由乐器
 
 实测两份谱的量化对比：
 
-| | 人声歌 | 纯器乐 |
+| 指标 | 人声歌 | 纯器乐 |
 |---|---|---|
 | 声部数 | 2（Vocal + Ins） | **2（Vocal + Ins）** |
 | Vocal 轨有声小节 | **90 / 111（81%）** | **0 / 117（0%）** |
@@ -45,7 +45,7 @@ ABC 是一门**记谱**格式，它没有「这个声部由人唱还是由乐器
 只需要 Python 3.8+，**无第三方依赖**。
 
 ```bash
-git clone <this-repo> && cd abc-instrumental
+git clone https://github.com/Author-WangYi/abc-instrumental.git && cd abc-instrumental
 python scripts/abc_instrumentalize.py --help
 ```
 
