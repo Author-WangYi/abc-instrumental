@@ -174,4 +174,4 @@ python tests/test_cli.py
 
 ## License
 
-MIT
+Unlicense（公共领域奉献，见 [LICENSE](LICENSE)）
